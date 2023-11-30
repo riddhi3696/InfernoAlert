@@ -5,10 +5,10 @@ With a user-friendly interface, it delivers crucial details about the location o
 Whether you're a traveller, a resident, or simply curious about global environmental events, the Wildfire Tracker App is your go-to resource for staying aware and proactive in the face of wildfire threat.
 
 # Technologies Used:
-React.js 
-React Hooks 
-Google-Map-React ·
-Cascading Style Sheets (CSS)
-Iconify 
-Fetch() 
-Async- await 
+-React.js 
+-React Hooks 
+-Google-Map-React
+-Cascading Style Sheets (CSS)
+-Iconify 
+-Fetch() 
+-Async- await 
